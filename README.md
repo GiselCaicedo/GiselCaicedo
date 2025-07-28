@@ -3,7 +3,7 @@
 ```javascript
 const developer = {
     name: "Gisel Daniela Caicedo",
-    role: "Full Stack Developer",
+    role: "Full Stack Developer",  
     location: "Bogotá, Colombia",
     currentlyWorking: "Building enterprise solutions with AI integration",
     passion: "Turning complex problems into elegant code"
@@ -12,45 +12,68 @@ const developer = {
 
 ## ⚡ About
 
-Software developer with **1.5+ years** transforming business processes through code. Currently developing enterprise applications at **Globalnews Group** while finishing my Software Engineering degree.
+Software developer with **1.5+ years** transforming business processes through code. Currently developing enterprise applications while finishing my Software Engineering degree.
 
 **What drives me:** Creating solutions that don't just work—they make a difference.
 
 ## 🛠 Tech Arsenal
 
-```yaml
-Languages: JavaScript, Python, Java, TypeScript
-Frontend: React, Vue, HTML5, CSS3, Responsive Design
-Backend: Node.js, Express, RESTful APIs
-Database: MySQL, PostgreSQL, MongoDB
-Tools: Git, Docker, AWS, Vercel
-Specialties: AI Integration, Process Automation, Enterprise Solutions
-```
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 💥 Recent Wins
 
 **🏆 ISO 9001:2015 Certification Contributor**  
-Developed the document management system that helped achieve company quality certification
+Developed document management system that helped achieve quality certification
 
 **🚀 Innovation Recognition x2**  
-Both my CRM platform and document management system were recognized as innovation processes
+Multiple solutions recognized as innovation processes in enterprise environments
 
 **⚙️ AI Automation Pioneer**  
 Built transcription systems that eliminated manual processes and saved operational hours
 
 **📈 Platform Enhancement**  
-Delivered new features at Inmov Global that boosted user experience
+Delivered new features that significantly boosted user experience
 
 ## 🔥 What I'm Building
 
-- **Document Management Platform** → Streamlining quality processes for enterprise
-- **AI-Powered CRM** → Optimizing sales workflows with intelligent automation  
+- **Document Management Platforms** → Streamlining quality processes for enterprise
+- **AI-Powered CRM Systems** → Optimizing workflows with intelligent automation  
 - **Process Automation Tools** → Eliminating repetitive tasks through code
-- **Innovation Management** → Leading tech initiatives that drive business growth
+- **Innovation Solutions** → Leading tech initiatives that drive business growth
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GiselCaicedo&theme=dark&hide_border=true)](https://github.com/GiselCaicedo)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiselCaicedo&layout=compact&theme=dark&hide_border=true)](https://github.com/GiselCaicedo)
+
+</div>
 
 ## 🎯 Current Mission
 
