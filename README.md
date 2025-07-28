@@ -10,13 +10,13 @@ const developer = {
 };
 ```
 
-## ⚡ About
+## About
 
 Software developer with **1.5+ years** transforming business processes through code. Currently developing enterprise applications while finishing my Software Engineering degree.
 
 **What drives me:** Creating solutions that don't just work—they make a difference.
 
-## 🛠 Tech Arsenal
+## Tech Arsenal
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,46 +44,6 @@ Software developer with **1.5+ years** transforming business processes through c
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 💥 Recent Wins
-
-**🏆 ISO 9001:2015 Certification Contributor**  
-Developed document management system that helped achieve quality certification
-
-**🚀 Innovation Recognition x2**  
-Multiple solutions recognized as innovation processes in enterprise environments
-
-**⚙️ AI Automation Pioneer**  
-Built transcription systems that eliminated manual processes and saved operational hours
-
-**📈 Platform Enhancement**  
-Delivered new features that significantly boosted user experience
-
-## 🔥 What I'm Building
-
-- **Document Management Platforms** → Streamlining quality processes for enterprise
-- **AI-Powered CRM Systems** → Optimizing workflows with intelligent automation  
-- **Process Automation Tools** → Eliminating repetitive tasks through code
-- **Innovation Solutions** → Leading tech initiatives that drive business growth
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GiselCaicedo&theme=dark&hide_border=true)](https://github.com/GiselCaicedo)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiselCaicedo&layout=compact&theme=dark&hide_border=true)](https://github.com/GiselCaicedo)
-
-</div>
-
-## 🎯 Current Mission
-
-```python
-while learning:
-    build_innovative_solutions()
-    automate_processes()
-    contribute_to_open_source()
-    never_stop_growing()
-```
 
 ## 💬 Let's Connect
 
